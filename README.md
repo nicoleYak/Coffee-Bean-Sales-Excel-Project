@@ -6,3 +6,8 @@ Data cleaning, manipulation and analysis in Excel, analyzing the sales of differ
 1. What are the total bean sales over time?
 2. What are the sales by country, and where do most orders come from?
 3. Who are the top 5 customers?
+
+
+**Excel skills I've used:**
+
+Data cleaning, XLOOKUP, Index Match, IF Function, data formatting, Pivot tables, Charts, Timelines and Slicers, Data visualization.
