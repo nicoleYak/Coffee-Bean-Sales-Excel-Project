@@ -1,0 +1,24 @@
+Coffee Bean Sales - Project Steps:
+
+Data Cleaning & Manipulation in Excel:
+
+1. Gathering customer data using XLOOKUP.
+2. Gathering product data using Index Match.
+3. Calculating the coffee bean sales.
+4. Using the IF Function to fill in the full coffee roast & type name.
+5. Formatting the order date column into dd-mmm-yyyy.
+6. Formatting the size column to add the metric.
+7. Formatting the unit price and sales columns to include '$'
+8. Check for duplicate values.
+9. Convert the dataset into a table.
+
+Data Analysis and Visualization:
+
+1. Create a 'Total Sales' pivot table, insert a line chart to showcase the total sales.
+Insert a timeline to filter the dates.
+
+2. Insert slicers - roast type, size, loyalty card.
+
+3. Create 2 more pivot tables - 'Sales By Country', 'Top 5 Customers'.
+
+4. Set up the final dashboard.
